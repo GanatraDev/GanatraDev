@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GanatraDev
 - 👀 I’m interested in Learning and Growing, learnig by doing
-- 🌱 I’m currently learning to be a father and Make
+- 🌱 I’m currently learning to work smoothly with github
 - 💞️ I’m looking to collaborate on Simulink + C language + python + Jenkins
 - 📫 How to reach me: just email me on dev.ganatra@vaillant-group.com
 
